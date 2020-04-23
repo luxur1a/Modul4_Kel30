@@ -25,4 +25,6 @@ else:
             print("Masukkan password")
             pw = input()
             print("Login berhasil")
-
+p = metod.huhaha("user")
+p.mulai()
+p.selesai(10)
